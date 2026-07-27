@@ -104,7 +104,7 @@ Self-check:
 
 ---
 
-# Phase 1 — Individual Scan: tìm 5+ problems (25')
+ # Phase 1 — Individual Scan: tìm 5+ problems (25')
 
 ## Mục tiêu
 
@@ -166,11 +166,11 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 |Tốn tg| Không biết nấu gì cho phù hợp| Bất cứ ai có nhu cầu nấu ăn|Mất 30-1 tiếng cho chọn đồ ăn, xảy ra nhiều lần, nhiều người gặp|
+| 2 |Lặp lại + Tốn tg|Thống kê thu chi của cửa hàng|Chủ tiệm|Hàng ngày|
+| 3 |Tốn thời gian + AI có thể làm tốt|Khó khăn lập kế hoạch|Sinh viên|Mất thời gian dài để đáp ứng hết yêu cầu theo ngữ cảnh, khó phân loại các công việc/môn học,...|
+| 4 |Tốn thời gian + Lặp lại|Chỉnh sửa đơn xin việc theo từng công ty|Người xin việc|Mất tg tìm hiểu, review, chỉnh sửa và đánh giá phù hợp với công ty|
+| 5 |Tốn thời gian + AI có thể làm tốt hơn|Lập lịch du lịch |Người đi du lịch|Mất thời gian tìm hiểu, review, so sánh giữa các địa điểm, chi phí,...|
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
@@ -227,9 +227,9 @@ Tiêu chí chọn:
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 |Thống kê thu chi cho cửa hàng |Actor rõ, AI có thể giúp thống kê|Những thông tin bảo mật riêng của cửa hàng, quyền bảo vệ riêng tư|
+| 2 |Không biết nấu gì cho phù hợp|Actor phổ biến, tần suất cao (gần như hàng ngày), dễ đo bằng phút/lần|Dữ liệu lớn, cần nhiều dữ liệu để áp dụng được hết trường hợp|
+| 3 |Lập lịch du lịch|Actor rõ, Impact lớn|Workflow phức tạp|
 
 ## Problem Card template
 
